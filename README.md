@@ -1,5 +1,5 @@
 # coffee_data_sql
-sql
+
 Key Questions <br />
 - Coffee Consumers Count <br />
 How many people in each city are estimated to consume coffee, given that 25% of the population does?
